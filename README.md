@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AX-11
+- 👋 Hi, I’m Andy Daubner
 - 👀 I’m interested in data science and AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on small, low-stress beginer projects.
