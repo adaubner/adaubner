@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Andy Daubner
-- 👀 I’m interested in data science and AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on small, low-stress beginer projects.
-- 📫 How to reach me "daubner.andy@gmail.com"
+Hello, I'm Andy.
 
-<!---
-AX-11/AX-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently studying Data Science & AI at Maastricht University. On top of schoolwork, I use github for my own personal projects and some larger collaborative apps.
+
+I mostly work in Python using the discord API, pandas, sql, and several data processing libraries. But I also tinker with Java.
+
+Contact Me:
+
+daubner.andy@gmail.com
