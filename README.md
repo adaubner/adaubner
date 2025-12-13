@@ -1,7 +1,7 @@
 Hello, I'm Andy.
 
-I am currently studying Data Science & AI at Maastricht University. On top of schoolwork, I use github for my own personal projects and some larger collaborative apps.
+I am currently studying a Masters of Scientific Computing at Heidelberg University. On top of schoolwork, I use github for my own personal projects and some larger collaborative apps.
 
-I mostly do data stuff with python, but I tinker with Java and CUDA.
+I mostly do computational geoemtry, simulation, and graphics with python/C++/CUDA.
 
 *“Make it work, make it right, make it fast.”* – Kent Beck
